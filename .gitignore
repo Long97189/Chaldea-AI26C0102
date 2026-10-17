@@ -1,0 +1,12 @@
+# Bí mật: KHÔNG đẩy lên GitHub
+.env
+.env.*
+
+# Tệp tạm, kết quả chạy thử
+__pycache__/
+*.pyc
+.venv/
+venv/
+run_log.jsonl
+submission.csv
+*.zip

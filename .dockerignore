@@ -1,0 +1,12 @@
+# Không đưa vào ảnh Docker: bí mật, file tạm, kết quả chạy thử
+.env
+.env.*
+**/__pycache__
+**/*.pyc
+.venv
+venv
+.git
+.gitignore
+run_log.jsonl
+submission.csv
+*.zip
